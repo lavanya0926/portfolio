@@ -388,7 +388,7 @@ export default function Portfolio() {
               { name: 'ReactJS', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' },
               { name: 'Java', img: 'https://external-preview.redd.it/java-22-launch-event-v0-VKfyXB99AEiHiPvIbK-vLRHcejGsT7-_XARIBlJwh38.jpg?auto=webp&s=0839fef377ec7e8428306c5b174bbab8ed470b4a' },
               { name: 'Node.js', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' },
-              { name: 'MongoBD', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' },
+              // { name: 'MongoBD', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' },
               { name: 'SQL', img: 'https://c8.alamy.com/comp/JMCJ7J/sql-database-icon-logo-design-ui-or-ux-app-gold-inscription-on-dark-JMCJ7J.jpg' }
             ]).flat().map((skill, index) => (
               <div
